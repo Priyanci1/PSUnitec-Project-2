@@ -1,0 +1,16 @@
+HTTrack3.48-22+htsswf+htsjava launched on Fri, 20 Jul 2018 11:41:35 at http://preview.locotheme.com/grandium-html/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://preview.locotheme.com/grandium-html/ -O1 "C:\Users\user\Desktop\hkshkshks\aaaaa" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:46:29	Warning: 	File not parsed, looks like binary: preview.locotheme.com/grandium-html/assets/fonts/glyphicons-halflings-regular.woff2
+11:46:29	Warning: 	File not parsed, looks like binary: preview.locotheme.com/grandium-html/assets/fonts/glyphicons-halflings-regular.ttf
+11:46:29	Warning: 	File not parsed, looks like binary: preview.locotheme.com/grandium-html/assets/fonts/fontawesome-webfont.woff2?v=4.5.0
+11:46:29	Warning: 	File not parsed, looks like binary: preview.locotheme.com/grandium-html/assets/fonts/fontawesome-webfont.ttf?v=4.5.0
+11:46:29	Error: 	"Not Found" (404) at link preview.locotheme.com/grandium-html/assets/css/owl.video.play.png (from preview.locotheme.com/grandium-html/assets/css/owl.carousel.css)
+
+HTTrack Website Copier/3.48-22 mirror complete in 5 minutes 3 seconds : 96 links scanned, 94 files written (8691148 bytes overall) [7966963 bytes received at 26293 bytes/sec], 962556 bytes transferred using HTTP compression in 34 files, ratio 21%, 2.0 requests per connection
+(1 errors, 4 warnings, 0 messages)
